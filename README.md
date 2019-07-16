@@ -6,6 +6,8 @@
   - [JavaGuide](https://github.com/Snailclimb/JavaGuide)
   - [interview_internal_reference](https://github.com/0voice/interview_internal_reference)
   - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+  - [advanced-java](https://github.com/doocs/advanced-java)
+  - [JCSprout](https://github.com/crossoverJie/JCSprout)
 - 面试经历
   - [阿里、拼多多面试经历分享，面试岗位：java技术专家](https://mp.weixin.qq.com/s/ShFAjbtwAtyUJxTWV6qhUQ)
   - [从简历被拒到收割今日头条 offer，我用一年时间破茧成蝶！](https://mp.weixin.qq.com/s/OKHAKMXIhsS4rYeWOaJPgw)
@@ -16,3 +18,26 @@
   - [面试鹅厂，我三面被虐的体无完肤。](https://mp.weixin.qq.com/s/_vCRA76lapXrMfULxiOL4w)
   - [面试通过字节跳动（头条）的一点小经验，仅 6000 字](https://mp.weixin.qq.com/s/whAB4nG4XcN0A7ZfzdTejQ)
   - [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://mp.weixin.qq.com/s/6Jnc29PmOAkJ7sclasx3yg)
+  - [40K成功入职：六年开发终获小米Offer](https://www.toutiao.com/a6713155061863678475/)
+- 面试题
+  - [阿里Java60万年薪(4面真题)：线程同步+数据库锁+中间件等](https://www.toutiao.com/a6712697960473297412)
+  - [2019蚂蚁Java三面：二叉树+HTTPS加密+自旋锁+缓存穿透](https://www.toutiao.com/i6710086004549616132/)
+  - [Java架构-三天拿到阿里、头条和美团的offer，我做了这些准备](https://www.toutiao.com/a6714132011251925518)
+- Java
+  - JVM
+    - [图解 Java 垃圾回收机制，写得非常好！](https://mp.weixin.qq.com/s/3GhnGdrShBeVEtQQ9H8D9Q)
+  - IO/NIO
+    - [10个最高频的Java NIO面试题剖析！](https://mp.weixin.qq.com/s/YIcXaH7AWLJbPjnTUwnlyQ)
+    - [结合代码详细聊聊 Java 网络编程中的 BIO、NIO 和 AIO](https://mp.weixin.qq.com/s/hr4EfNRN_dRl4hS7Uz69UQ)
+    - [什么是BIO，NIO和AIO？](https://mp.weixin.qq.com/s/Qi5ONTqRD6qiGUFrpArf0Q)
+    - [五种I/O模型和Java NIO源码分析](https://mp.weixin.qq.com/s/v6r4cH6yd4oOqufyO3YobQ)
+- MySql
+  - [本以为对Mysql索引很了解，直到我遇到了阿里的面试官](https://www.toutiao.com/a6711672885959721479)
+- redis
+  - [这几道Redis面试题都不懂，怎么拿offer？](https://mp.weixin.qq.com/s/4nQNQF5eI2Yqf7lQOti8kQ)
+  - [面试珍藏：20 道 Redis 面试题，面试官能问的都被我找到了](https://www.toutiao.com/a6714131356894364171)
+- 系统设计
+  - [面试被问到秒杀系统，这个点你一定得答到，轻松征服面试官](https://www.toutiao.com/a6713034043669086727)
+  - [如何设计并实现一个秒杀系统？（含完整代码）](https://mp.weixin.qq.com/s/bOmNpz9D59AcyHhY11WCUQ)
+  - [如何设计一个百万级用户的抽奖系统？](https://mp.weixin.qq.com/s/LNqMbTWcbaa0Bz_NI6OkpA)
+  - [阿里二面：设计一个电商平台积分兑换系统！](https://mp.weixin.qq.com/s/Kc4W8RTcjhMSVfUWCvaTDw)
