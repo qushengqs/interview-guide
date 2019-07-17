@@ -44,3 +44,33 @@
   - [如何设计并实现一个秒杀系统？（含完整代码）](https://mp.weixin.qq.com/s/bOmNpz9D59AcyHhY11WCUQ)
   - [如何设计一个百万级用户的抽奖系统？](https://mp.weixin.qq.com/s/LNqMbTWcbaa0Bz_NI6OkpA)
   - [阿里二面：设计一个电商平台积分兑换系统！](https://mp.weixin.qq.com/s/Kc4W8RTcjhMSVfUWCvaTDw)
+
+## 自己总结
+
+- Java
+  - JVM
+    - 内存模型
+    - 垃圾回收
+    - 如何设计一个可达性分析系统
+    - 双亲委派机制
+    - SPI
+  - 并发
+    - synchronized
+    - 偏向锁/轻量级锁/重量级锁的原理
+    - ReentractLock
+    - synchronized与ReentractLock区别
+    - volatile
+    - 线程池原理和参数配置
+    - 内存的多级缓存机
+  - 容器
+    - HashMap 1.7和1.8的区别
+- redis
+  - 保证缓存与数据库中数据一致性
+  - 数据类型
+- MySql
+- 消息队列
+  - 如何保证消息的可靠性
+- 分布式
+  - 分布式锁
+  - 分布式事务
+  - redis和zookeeper如何实现分布式锁
