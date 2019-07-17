@@ -19,6 +19,7 @@
   - [面试通过字节跳动（头条）的一点小经验，仅 6000 字](https://mp.weixin.qq.com/s/whAB4nG4XcN0A7ZfzdTejQ)
   - [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://mp.weixin.qq.com/s/6Jnc29PmOAkJ7sclasx3yg)
   - [40K成功入职：六年开发终获小米Offer](https://www.toutiao.com/a6713155061863678475/)
+  - [刚参加完蚂蚁金服中间件6轮面试！现在还处于懵圈状态](https://www.toutiao.com/a6713782276842324493)
 - 面试题
   - [阿里Java60万年薪(4面真题)：线程同步+数据库锁+中间件等](https://www.toutiao.com/a6712697960473297412)
   - [2019蚂蚁Java三面：二叉树+HTTPS加密+自旋锁+缓存穿透](https://www.toutiao.com/i6710086004549616132/)
@@ -26,11 +27,13 @@
 - Java
   - JVM
     - [图解 Java 垃圾回收机制，写得非常好！](https://mp.weixin.qq.com/s/3GhnGdrShBeVEtQQ9H8D9Q)
+    - [想要去阿里面试？你必须得跨过 JVM 这道坎！](https://mp.weixin.qq.com/s/NewEj5kywOKrVfHx3X6amA)
   - IO/NIO
     - [10个最高频的Java NIO面试题剖析！](https://mp.weixin.qq.com/s/YIcXaH7AWLJbPjnTUwnlyQ)
     - [结合代码详细聊聊 Java 网络编程中的 BIO、NIO 和 AIO](https://mp.weixin.qq.com/s/hr4EfNRN_dRl4hS7Uz69UQ)
     - [什么是BIO，NIO和AIO？](https://mp.weixin.qq.com/s/Qi5ONTqRD6qiGUFrpArf0Q)
     - [五种I/O模型和Java NIO源码分析](https://mp.weixin.qq.com/s/v6r4cH6yd4oOqufyO3YobQ)
+    - [百度、腾讯热门面试题：聊聊Unix与Java的IO模型？（含详细解析）](https://mp.weixin.qq.com/s/mEahtWqeFqzzaETHKAWtzw)
 - MySql
   - [本以为对Mysql索引很了解，直到我遇到了阿里的面试官](https://www.toutiao.com/a6711672885959721479)
 - redis
