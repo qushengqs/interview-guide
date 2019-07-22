@@ -20,30 +20,58 @@
   - [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://mp.weixin.qq.com/s/6Jnc29PmOAkJ7sclasx3yg)
   - [40K成功入职：六年开发终获小米Offer](https://www.toutiao.com/a6713155061863678475/)
   - [刚参加完蚂蚁金服中间件6轮面试！现在还处于懵圈状态](https://www.toutiao.com/a6713782276842324493)
+  - [记录一次成都阿里一面的经历](https://mp.weixin.qq.com/s/xr479YxQ14KeoxL0KdptXA)
+  - [记一次蚂蚁金服的面试经历](https://mp.weixin.qq.com/s/gzXhuLrBX304V82hWwL1rw)
 - 面试题
   - [阿里Java60万年薪(4面真题)：线程同步+数据库锁+中间件等](https://www.toutiao.com/a6712697960473297412)
   - [2019蚂蚁Java三面：二叉树+HTTPS加密+自旋锁+缓存穿透](https://www.toutiao.com/i6710086004549616132/)
   - [Java架构-三天拿到阿里、头条和美团的offer，我做了这些准备](https://www.toutiao.com/a6714132011251925518)
+  - [跳槽季如何快速全面复习面试题](https://mp.weixin.qq.com/s/0l6nPDq_EbIIxm4NCcU3Aw)
 - Java
   - JVM
     - [图解 Java 垃圾回收机制，写得非常好！](https://mp.weixin.qq.com/s/3GhnGdrShBeVEtQQ9H8D9Q)
     - [想要去阿里面试？你必须得跨过 JVM 这道坎！](https://mp.weixin.qq.com/s/NewEj5kywOKrVfHx3X6amA)
+    - [可能是最全面的 Java G1学习笔记](https://mp.weixin.qq.com/s/Shw0jtVse1QqNbFCyYmfZA)
+    - [深入浅出 Java CMS 学习笔记](https://mp.weixin.qq.com/s/eGwLVk474cJWyVoP97gWGg)
+    - [一个高频面试题，考考大家对 Java String 常量池的理解。](https://mp.weixin.qq.com/s/_AaiynnWnjnz7f1lUF6dqw)
   - IO/NIO
     - [10个最高频的Java NIO面试题剖析！](https://mp.weixin.qq.com/s/YIcXaH7AWLJbPjnTUwnlyQ)
     - [结合代码详细聊聊 Java 网络编程中的 BIO、NIO 和 AIO](https://mp.weixin.qq.com/s/hr4EfNRN_dRl4hS7Uz69UQ)
     - [什么是BIO，NIO和AIO？](https://mp.weixin.qq.com/s/Qi5ONTqRD6qiGUFrpArf0Q)
     - [五种I/O模型和Java NIO源码分析](https://mp.weixin.qq.com/s/v6r4cH6yd4oOqufyO3YobQ)
     - [百度、腾讯热门面试题：聊聊Unix与Java的IO模型？（含详细解析）](https://mp.weixin.qq.com/s/mEahtWqeFqzzaETHKAWtzw)
+  - 锁
+    - [史上最难的一道Java面试题：分析篇](https://mp.weixin.qq.com/s/i28nwsfnZzvsgnbP00nZ5g)
+  - ThreadLocal
+    - [面试中的 ThreadLocal 原理和使用场景](https://mp.weixin.qq.com/s/Yyq_gzZ4KuQG7hPqPFbB9w)
+  - 线程池
+    - [没那么简单的线程池](https://mp.weixin.qq.com/s/Axww5MvevL81e6r8xXZlDA)
+    - [从源码的角度解析线程池运行原理](https://mp.weixin.qq.com/s/8o-ZkZ40QmwIlMYabFyPmQ)
+    - [Java线程池详解（一）](https://www.jianshu.com/p/5d5198b434a2)
+    - [面试-线程池的成长之路](https://mp.weixin.qq.com/s/5dexEENTqJWXN_17c6Lz6A)
+    - [如何优雅的使用和理解线程池](https://mp.weixin.qq.com/s/lfGe3ZLP9MKaVCAr_x4kpQ)
 - MySql
   - [本以为对Mysql索引很了解，直到我遇到了阿里的面试官](https://www.toutiao.com/a6711672885959721479)
 - redis
   - [这几道Redis面试题都不懂，怎么拿offer？](https://mp.weixin.qq.com/s/4nQNQF5eI2Yqf7lQOti8kQ)
   - [面试珍藏：20 道 Redis 面试题，面试官能问的都被我找到了](https://www.toutiao.com/a6714131356894364171)
+  - [阿里一面：关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案](https://mp.weixin.qq.com/s/5MloHIa5zKvYYsVVEWZjQA)
 - 系统设计
   - [面试被问到秒杀系统，这个点你一定得答到，轻松征服面试官](https://www.toutiao.com/a6713034043669086727)
   - [如何设计并实现一个秒杀系统？（含完整代码）](https://mp.weixin.qq.com/s/bOmNpz9D59AcyHhY11WCUQ)
+  - [秒杀聊聊秒杀限流的多种实现](https://mp.weixin.qq.com/s/4NVXJz2-x7ywLFVBQGd3fw)
   - [如何设计一个百万级用户的抽奖系统？](https://mp.weixin.qq.com/s/LNqMbTWcbaa0Bz_NI6OkpA)
   - [阿里二面：设计一个电商平台积分兑换系统！](https://mp.weixin.qq.com/s/Kc4W8RTcjhMSVfUWCvaTDw)
+  - [设计一个百万级的消息推送系统](https://mp.weixin.qq.com/s/4mrAL39rpFOHnm9Wnxl4wQ)
+  - [电商系统之订单系统](https://mp.weixin.qq.com/s/BDDgA2eUXf3Rw7SPBHk5kQ)
+  - [小明电商启示录：促销](https://mp.weixin.qq.com/s/YxRahgmV8otAo91dy22Lcg)
+- TCP/IP
+  - [“三次握手，四次挥手”你真的懂吗？](https://mp.weixin.qq.com/s/nI6qfB1D8ra2vCgH5xW6cw)
+- 分布式
+  - [刚柔并济的开源分布式事务解决方案](https://mp.weixin.qq.com/s/c_eOUBzTNY32DJad9ODfag)
+  - [关于分布式事务、两阶段提交协议、三阶提交协议](https://mp.weixin.qq.com/s/87-znh7Q-SvQfF9u8O3Trg)
+  - [聊聊分布式锁](https://mp.weixin.qq.com/s/M-1MB7AleL-WRSxrCfwrqQ)
+  - [架构师带你玩转分布式锁](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
 
 ## 自己总结
 
