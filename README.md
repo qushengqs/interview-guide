@@ -72,6 +72,14 @@
   - [关于分布式事务、两阶段提交协议、三阶提交协议](https://mp.weixin.qq.com/s/87-znh7Q-SvQfF9u8O3Trg)
   - [聊聊分布式锁](https://mp.weixin.qq.com/s/M-1MB7AleL-WRSxrCfwrqQ)
   - [架构师带你玩转分布式锁](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
+  - [拜托，面试请不要再问我TCC分布式事务的实现原理！](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
+  - [手写分布式事务框架，byte-tcc作者给出的9条建议！](https://mp.weixin.qq.com/s/mEDOvELrlpAvj8svJs9uRA)
+- 消息队列
+  - [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
+  - [面试大杀器：消息中间件如何实现消费吞吐量的百倍优化？](https://mp.weixin.qq.com/s/vZ4KVC2eGmssnQUyIKgzfw)
+  - [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（1）](https://mp.weixin.qq.com/s/uqWIf0MAet_StszuOrZCwQ)
+  - [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（2）](https://mp.weixin.qq.com/s/9SFrwaCCLnNyuCqP_KQ0zw)
+  - [哥们，消息中间件在你们项目里是如何落地的？](https://mp.weixin.qq.com/s/ZAWPRToPQFcwzHBf47jZ-A)
 
 ## 自己总结
 
