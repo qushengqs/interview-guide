@@ -9,6 +9,7 @@
   - [advanced-java](https://github.com/doocs/advanced-java)
   - [JCSprout](https://github.com/crossoverJie/JCSprout)
 - 面试经历
+  - [程序员跳槽全攻略](http://ftqq.com/book/proguide/)
   - [阿里、拼多多面试经历分享，面试岗位：java技术专家](https://mp.weixin.qq.com/s/ShFAjbtwAtyUJxTWV6qhUQ)
   - [从简历被拒到收割今日头条 offer，我用一年时间破茧成蝶！](https://mp.weixin.qq.com/s/OKHAKMXIhsS4rYeWOaJPgw)
   - [我的奇葩面试经历分享：喊价25K，HR 却给了30K。](https://mp.weixin.qq.com/s/26mxUfdbjZ3bOZDEBZ0aOQ)
@@ -80,6 +81,8 @@
   - [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（1）](https://mp.weixin.qq.com/s/uqWIf0MAet_StszuOrZCwQ)
   - [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（2）](https://mp.weixin.qq.com/s/9SFrwaCCLnNyuCqP_KQ0zw)
   - [哥们，消息中间件在你们项目里是如何落地的？](https://mp.weixin.qq.com/s/ZAWPRToPQFcwzHBf47jZ-A)
+- 源码
+  - [字节跳动面试官问了我源码，然后......](https://mp.weixin.qq.com/s/cKIvBk4TEVQEDc3rlcf9Vw)
 
 ## 自己总结
 
