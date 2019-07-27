@@ -69,6 +69,7 @@
 - TCP/IP
   - [“三次握手，四次挥手”你真的懂吗？](https://mp.weixin.qq.com/s/nI6qfB1D8ra2vCgH5xW6cw)
 - 分布式
+  - [两万字深度介绍分布式系统原理，一文入魂](https://mp.weixin.qq.com/s/CgNeuDzyK2UvevPYNs6KDg)
   - [刚柔并济的开源分布式事务解决方案](https://mp.weixin.qq.com/s/c_eOUBzTNY32DJad9ODfag)
   - [关于分布式事务、两阶段提交协议、三阶提交协议](https://mp.weixin.qq.com/s/87-znh7Q-SvQfF9u8O3Trg)
   - [聊聊分布式锁](https://mp.weixin.qq.com/s/M-1MB7AleL-WRSxrCfwrqQ)
