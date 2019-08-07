@@ -1,0 +1,7 @@
+- 用来解决统计问题，该数据结构提供不精确的去重计数方案
+- 标准误差是0.81%
+- 常用指令
+  - pfadd：增加计数，例如：pfadd codehole user1
+  - pfcount：获取计数，例如：pfcount codehole
+  - pfmerge：将多个pf计数值累加在一起形成一个新的pf值
+- 该数据结构需要占据12K的存储空间
