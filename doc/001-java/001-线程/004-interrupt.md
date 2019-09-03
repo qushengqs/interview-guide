@@ -1,0 +1,4 @@
+- interrupt：中断线程，设置中断标记
+- isInterrupted：判断线程是否中断
+- interrupted：判断线程是否中断，并清除当前中断状态
+- 如果线程在sleep或者wait状态，调用中断方法导致InterruptedException异常，但抛出异常会清除中断标记，想在异常后仍然中断线程，需要在catch中继续设置状态
