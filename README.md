@@ -68,7 +68,7 @@
   - [小明电商启示录：促销](https://mp.weixin.qq.com/s/YxRahgmV8otAo91dy22Lcg)
 - TCP/IP
   - [“三次握手，四次挥手”你真的懂吗？](https://mp.weixin.qq.com/s/nI6qfB1D8ra2vCgH5xW6cw)
-- 分布式
+- 分布式事务
   - [两万字深度介绍分布式系统原理，一文入魂](https://mp.weixin.qq.com/s/CgNeuDzyK2UvevPYNs6KDg)
   - [刚柔并济的开源分布式事务解决方案](https://mp.weixin.qq.com/s/c_eOUBzTNY32DJad9ODfag)
   - [关于分布式事务、两阶段提交协议、三阶提交协议](https://mp.weixin.qq.com/s/87-znh7Q-SvQfF9u8O3Trg)
@@ -76,6 +76,8 @@
   - [架构师带你玩转分布式锁](https://mp.weixin.qq.com/s/tjAG2ZAoUutqaKHnF7v3lA)
   - [拜托，面试请不要再问我TCC分布式事务的实现原理！](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
   - [手写分布式事务框架，byte-tcc作者给出的9条建议！](https://mp.weixin.qq.com/s/mEDOvELrlpAvj8svJs9uRA)
+  - [面试官问：你讲讲分布式事务问题的几种方案？](https://mp.weixin.qq.com/s/bM5Vwsm_i2C8gOenK7uwdg)
+  - [不说“分布式事务”理论，直接上大厂解决方案，绝对实用！](https://mp.weixin.qq.com/s/zetgIyVufk1hoygn1bn17g)
 - 消息队列
   - [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
   - [面试大杀器：消息中间件如何实现消费吞吐量的百倍优化？](https://mp.weixin.qq.com/s/vZ4KVC2eGmssnQUyIKgzfw)
