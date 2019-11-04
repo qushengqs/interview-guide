@@ -86,6 +86,8 @@
   - [哥们，消息中间件在你们项目里是如何落地的？](https://mp.weixin.qq.com/s/ZAWPRToPQFcwzHBf47jZ-A)
 - 源码
   - [字节跳动面试官问了我源码，然后......](https://mp.weixin.qq.com/s/cKIvBk4TEVQEDc3rlcf9Vw)
+- 数据库分库分表
+  - [不用找了，大厂在用的分库分表方案，都在这里了！](https://mp.weixin.qq.com/s/IEyLY1VGgP1ZFZiEvA8ByA)
 
 ## 自己总结
 
